@@ -1,5 +1,7 @@
 # Training the Model 3
 
+<imageComponent pic="hero_3" />
+
 ## Tailored to model, positions and individuals
 
 ## Tactical focus

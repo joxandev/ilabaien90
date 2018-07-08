@@ -1,5 +1,7 @@
 # Player Improvement
 
+<imageComponent pic="hero_4" />
+
 ## Learning and Development
 
 ### Attacking concepts
@@ -16,7 +18,7 @@
 
 ### Defensive Concepts
 
-- Spacial awarenes
+- Spatial awarenes
 
 - Organised pressing
 
@@ -51,4 +53,62 @@
 
 ## Related to the body
 
-## Related to the mind
+### Generic
+
+- Agility
+
+- Reaction
+
+- Balance
+
+- Stregth
+
+- Pace
+
+- Stamina
+
+### Specific
+
+- Shooting
+
+- Ball control
+
+- Dribbling
+
+- Ambidexterity
+
+## Related to the mind (cognitive and behavioural)
+
+### Player self sufficient and creative
+
+- Awareness
+
+- Decision making
+
+- Evaluation
+
+- Make it happen
+
+### Rectify mistakes
+
+- Acknowledgement of the mistake
+
+- Find origins
+
+- Mitigate, rectify and recovery
+
+### Ethics and values
+
+- Team work
+
+- Fairness
+
+- Solidarity
+
+- Empathy
+
+- Generosity
+
+- High work rate
+
+- Friendship

@@ -1,5 +1,7 @@
 # Player Development Objectives
 
+<imageComponent pic="hero_2" />
+
 ## Main Objectives
 
 - To become a professional footballer

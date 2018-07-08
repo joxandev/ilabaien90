@@ -1,5 +1,7 @@
 # Traning the Model 4
 
+<imageComponent pic="hero_4" />
+
 ## Objectives
 
 - Generate and automate collective, sectorial and individual behaviours

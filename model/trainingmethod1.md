@@ -1,5 +1,7 @@
 # Training the Model 1
 
+<imageComponent pic="hero" />
+
 ## Knowing what to do
 
 - How to attack

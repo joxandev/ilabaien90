@@ -1,5 +1,7 @@
 # Player Development
 
+<imageComponent pic="hero_3" />
+
 ## Objectives
 
 ### Types

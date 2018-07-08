@@ -1,6 +1,6 @@
 # The Game Model
 
-<imageComponent pic="hero_2" />
+<div class="image-shell"><img src="/hero_2.png"></div>
 
 ## Understanding - What to do and why
 

@@ -1,5 +1,7 @@
 # Creating the Game Model
 
+<imageComponent pic="hero_2" />
+
 ## Assesment - Weaknesess and Strengths
 
 - Players: Type and Standards

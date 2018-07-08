@@ -1,19 +1,4 @@
-# Game Model
 
-## Understanding - What to do and why
+<imageComponent heading="The Game Model" pic="hero_2"/>
 
-### Adapt
-
-- Players Characteristics
-
-- Club Culture
-
-- Category
-
-- Geocultural Context (Country, Region)
-
-- Objectives
-
-### Perform Well
-
-- Be efficient in each aspect of the game
+  <p class="btn"><router-link to="intro.html" class="nav-link action-button">Enter</router-link></p>

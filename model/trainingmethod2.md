@@ -1,5 +1,7 @@
 # Training the Model 2
 
+<imageComponent pic="hero_2" />
+
 ## Foundations
 
 - Attack / defense 
