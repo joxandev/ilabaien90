@@ -5,7 +5,7 @@ module.exports = {
         nav: [
           { text: 'Home', link: '/' },
           { text: 'CV', link: '/cv/' },
-          { text: 'Football Model', link: '/model/intro' },
+          { text: 'Game Model', link: '/model/' },
         ],
         sidebar: {
           '/cv/':  [
@@ -18,7 +18,7 @@ module.exports = {
               ['/cv/contact','Contact Details'],
             ],
             '/model/':  [
-               
+               '/',
                [ '/model/intro', 'Intro'],
                [ '/model/createmodel', 'Creating the Game Model'],
                [ '/model/trainingmethod1', 'Training the Model 1'],
