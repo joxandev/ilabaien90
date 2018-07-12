@@ -30,9 +30,9 @@
 
 ### Transitions
 
-- Defending after losing possesion
+- Counter pressing
 
-- Transition to defending possition
+- Tracking back
 
 - Counter attacks
 
