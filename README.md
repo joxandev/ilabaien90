@@ -10,5 +10,5 @@ features:
   details: UEFA Pro Licence, Bachelor Degree in Sports and Fitness Science, Primary School Teacher
 - title: Skills
   details: Football coaching, fitness coaching, tactical and oposition analysis, coaching  development.
-footer: Ibon Labaien | UEFA Pro Coach | Copyright © 2018-present
+footer: Ibon Labaien | UEFA Pro Coach | Copyright © 2018-present-
 ---
